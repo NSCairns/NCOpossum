@@ -10,3 +10,5 @@ This mod features: Opossums that can carry items in their mouths with a visible 
 I used this project as a way to express my passion and love for games, coding and the processes behind development, as well as a way to test my motivation, resilience and perseverance when I had to figure out things for myself not covered by the basic tutorials, for example rendering the item and having it follow the opossums idle head movements. 
 
 Thank you for your time to look at my Opossum Mod.
+
+Please refer to the How to Install file in my repo for installation instructions.
