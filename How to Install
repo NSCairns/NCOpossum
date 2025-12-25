@@ -1,0 +1,12 @@
+This mod requires Minecraft Client 1.12.2 and the latest Forge for 1.12.2
+
+Below is a link to Forge 1.12.2 you may find it useful to use the installer which will guide you through the process. Alternatively you can opt to manually install, please follow Forge's instructions for this.
+https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html
+
+Once Forge has installed, and your client has been made available in whatever launcher you use to load minecraft, please head to the relevant launchers Instance location.
+If you are using vanilla this can be achieved by typing %appdata% in your windows search and clicking the folder titled %appdata% once inside, direct your attention to the .minecraft folder and within place the Release I have uploaded of 1.12.2 into the mods folder.
+
+Once you have installed the .jar I have included in releases into the folder, you may launch the game and expect to see this confirmed in the mods tab of your minecraft game when you click play. NCOpossum should be the entry
+
+Opossums can be encountered in the wild, they are also spawnable via creative by way of a spawn egg.
+Recipie for an alfredo egg is one normal egg in any crafting slot, this makes an alfredo egg. I did this as a workaround for feeding the opossum as the feeding action is shared with throw making vanilla eggs ineligible for use.
