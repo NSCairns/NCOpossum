@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"B",
+		"A"
+	],
+	
+	"key":
+	{
+		"B":
+		{
+			"item": "minecraft:iron_trapdoor"
+		},
+		
+		"A":
+		{
+			"item": "minecraft:cauldron"
+		}
+	},
+	
+	"result":
+	{
+		"item": "ncopossum:block_trashcan",
+		"count": 1
+	}
+}

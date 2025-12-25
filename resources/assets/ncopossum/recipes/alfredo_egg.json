@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"B"
+	],
+	
+	"key":
+	{
+		"B":
+		{
+			"item": "minecraft:egg"
+		}
+	},
+	
+	"result":
+	{
+		"item": "ncopossum:egg_alfredo",
+		"count": 1
+	}
+}

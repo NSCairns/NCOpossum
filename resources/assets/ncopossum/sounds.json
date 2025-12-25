@@ -1,0 +1,52 @@
+{
+	"entity.opossum.ambient":
+	{
+		"category": "entity",
+		"subtitle": "entity.opossum.ambient",
+		"sounds": 
+		[
+		 	{
+		 		"name": "ncopossum:entity/opossum/ambient1", "stream": true
+		 	},
+		 	{
+		 		"name": "ncopossum:entity/opossum/ambient2", "stream": true
+		 	}
+		]
+	},
+	
+	"entity.opossum.hurt":
+	{
+		"category": "entity",
+		"subtitle": "entity.opossum.hurt",
+		"sounds": 
+		[
+			{
+				"name": "ncopossum:entity/opossum/hurt", "stream": true
+			}
+		]
+	},
+	
+	"entity.opossum.death":
+	{
+		"category": "entity",
+		"subtitle": "entity.opossum.death",
+		"sounds": 
+		[
+			{
+				"name": "ncopossum:entity/opossum/death", "stream": true
+			}
+		]
+	},
+	
+	"entity.opossum.eat":
+	{
+		"category": "entity",
+		"subtitle": "entity.opossum.eat",
+		"sounds": 
+		[
+			{
+				"name": "ncopossum:entity/opossum/eat", "stream": true
+			}
+		]
+	}
+}
